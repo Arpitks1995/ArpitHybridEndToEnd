@@ -10,6 +10,8 @@ public class RadheRadhe {
 			System.out.println("hare Krishna");
 			System.out.println("Radhe-Krishna");
 			System.out.println("Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Ram Hare Ram Ram Ram Hare Hare");
+			System.out.println("Hari Bol");
+			System.out.println("Hari Hari Bol");
 
 		}
 }
