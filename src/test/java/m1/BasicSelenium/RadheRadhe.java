@@ -6,6 +6,7 @@ public class RadheRadhe {
 		@Test
 		public void m3() {
 			System.out.println("Radha Krishna");
+			System.out.println("hare Krishna");
 		}
 }
 
